@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # fontes-chaveadas
 Fontes chaveadas ELT
 =======
